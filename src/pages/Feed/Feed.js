@@ -23,7 +23,7 @@ class Feed extends Component {
   };
 
   componentDidMount() {
-    fetch("url", {
+    fetch("http://localhost:8080/feed/status", {
       headers: {
         Authorization: "Bearer " + this.props.token,
       },
@@ -35,6 +35,7 @@ class Feed extends Component {
         return res.json();
       })
       .then((resData) => {
+        console.log(resData.status);
         this.setState({ status: resData.status });
       })
       .catch(this.catchError);
