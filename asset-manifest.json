@@ -1,13 +1,13 @@
 {
   "main.css": "/real-time-blog-app/static/css/main.e4ddfdcd.chunk.css",
-  "main.js": "/real-time-blog-app/static/js/main.1ba27f7d.chunk.js",
-  "main.js.map": "/real-time-blog-app/static/js/main.1ba27f7d.chunk.js.map",
+  "main.js": "/real-time-blog-app/static/js/main.552b1c78.chunk.js",
+  "main.js.map": "/real-time-blog-app/static/js/main.552b1c78.chunk.js.map",
   "static/js/1.cdd0c1f5.chunk.js": "/real-time-blog-app/static/js/1.cdd0c1f5.chunk.js",
   "static/js/1.cdd0c1f5.chunk.js.map": "/real-time-blog-app/static/js/1.cdd0c1f5.chunk.js.map",
   "runtime~main.js": "/real-time-blog-app/static/js/runtime~main.aaf6a707.js",
   "runtime~main.js.map": "/real-time-blog-app/static/js/runtime~main.aaf6a707.js.map",
   "static/css/main.e4ddfdcd.chunk.css.map": "/real-time-blog-app/static/css/main.e4ddfdcd.chunk.css.map",
   "index.html": "/real-time-blog-app/index.html",
-  "precache-manifest.3e9e75007db4aad0dceb1547b0961a50.js": "/real-time-blog-app/precache-manifest.3e9e75007db4aad0dceb1547b0961a50.js",
+  "precache-manifest.842c65c2ad885b7ca1b700b6897e7261.js": "/real-time-blog-app/precache-manifest.842c65c2ad885b7ca1b700b6897e7261.js",
   "service-worker.js": "/real-time-blog-app/service-worker.js"
 }

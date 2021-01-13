@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1ba27f7d1e0b4403de2e",
+    "revision": "552b1c78648baddd034b",
     "url": "/real-time-blog-app/static/css/main.e4ddfdcd.chunk.css"
   },
   {
-    "revision": "1ba27f7d1e0b4403de2e",
-    "url": "/real-time-blog-app/static/js/main.1ba27f7d.chunk.js"
+    "revision": "552b1c78648baddd034b",
+    "url": "/real-time-blog-app/static/js/main.552b1c78.chunk.js"
   },
   {
     "revision": "cdd0c1f5e23d99b5a756",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/real-time-blog-app/static/js/runtime~main.aaf6a707.js"
   },
   {
-    "revision": "826689a8735a15b1ec02891038afacff",
+    "revision": "2fb1e173bae6dabaa14ea0d1e6c77d7a",
     "url": "/real-time-blog-app/index.html"
   }
 ];
